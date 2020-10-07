@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  scoped_model: ^1.0.1
+  
 dev_dependencies:
   effective_dart: 1.2.2
   mockito: ^4.1.1
